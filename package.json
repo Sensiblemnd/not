@@ -1,0 +1,16 @@
+{
+    "name": "Not",
+    "description": "Creates a function out of '!'.",
+    "version": "0.1.0",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Sensiblemnd/not.git"
+    },
+    "keywords": [],
+    "author": "Rob Lloveras",
+    "bugs": {
+      "url": "https://github.com/Sensiblemnd/not/issues"
+    },
+    "homepage": "https://github.com/Sensiblemnd/not"
+  }
